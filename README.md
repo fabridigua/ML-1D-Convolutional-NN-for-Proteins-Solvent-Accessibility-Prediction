@@ -35,7 +35,7 @@ You will need:
 
 The Results
 ------
-The CNN reached *85%* of accuracy, while the CNN-LSTM model obtained more than *89%* using CullPDB as dataset and training the model in 120 epochs, even if the second one appear to be yet improvable.
+The CNN reached **85%** of accuracy, while the CNN-LSTM model obtained more than **89%** using CullPDB as dataset and training the model in 120 epochs, even if the second one appear to be yet improvable.
 
 The linked articles
 ------
