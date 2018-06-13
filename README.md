@@ -4,7 +4,7 @@ This project has been made for Machine Learning Corse at University of Florence.
 
 The Problem
 ------
-The prediction of proteins 3D structure's properties is one of the most popular and studied issue in bioinformatics and Machine Learning.
+The prediction of proteins 3D structure's properties is one of the most popular and studied issue in bioinformatics and Machine Learning.<br>
 Nowdays the most frequent approch is using a Recurrent Neural Network (like an LSTM based Model).
 Using a Convolutional Neural Network is a good compromision between performance and execution time.
 More details in the beamer written presentation.
